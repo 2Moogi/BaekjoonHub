@@ -1,2 +1,1 @@
-# BaekjoonHub
-백준풀이
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/ehdgus5169/)
