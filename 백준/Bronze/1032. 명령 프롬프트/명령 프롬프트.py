@@ -16,6 +16,6 @@ for i in range(len(files[0])):
         if files[j][i] != first_file[i]:
             answer+='?'
             break
-        elif files[j][i] == first_file[i] and j==len(files)-1:
+        elif j==len(files)-1:
             answer+=files[j][i]
 print(answer)
